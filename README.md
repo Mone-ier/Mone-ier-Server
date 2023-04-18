@@ -14,7 +14,7 @@
 
 ## Author
 
-👤 **이소명(Daisy)**
+👤 **이소명 (Daisy)**
 
 * Website: https://velog.io/@leesomyoung
 * Github: [@LeeSoMyoung](https://github.com/LeeSoMyoung)
@@ -31,5 +31,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2023 [이소명(Daisy)](https://github.com/https:\/\/github.com\/LeeSoMyoung).<br />
+Copyright © 2023 [이소명(Daisy)](https://github.com/LeeSoMyoung).<br />
 This project is [MIT](https://github.com/Mone-ier/Mone-ier-Server/blob/main/LICENSE) licensed.
