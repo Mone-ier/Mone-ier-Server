@@ -20,10 +20,32 @@
 * Github: [@LeeSoMyoung](https://github.com/LeeSoMyoung)
 
 ## 기술 스택
-* Backend Language - Spring Boot 2.4.0
+* Backend Language - Spring Boot 3.0.5
 * MySQL 8.0.28
 * OS - ubuntu 20.04
 * Web Server - NginX 1.18.0
+
+## 📖 project directory
+```
+Mone-ier-Server
+    > gradle
+    > src
+        >main.java.com.daisy.moneier
+            > config
+                | BaseException.java Controller, Service에서 Response 용으로 공통적으로 사용 될 익셉션 클래스
+                | BaseResponse.java // Controller 에서 Response 용으로 공통적으로 사용되는 구조를 위한 모델 클래스
+                | BaseResponseStatus.java // Controller, Service에서 사용 할 Response Status 관리 클래스 
+        > main.resources
+            | application.properties
+            
+        > test.java.com.daisy.moneier
+            | MoneierApplicationTests.java
+    gradlew
+    gradlew.bat
+    settings.gradle
+    build.gradle
+    .gitignore // git에 올라가지 않는 파일들
+```
 
 ## Show your support
 
